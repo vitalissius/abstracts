@@ -4,5 +4,5 @@
 
 [02. Установка git](02-how-to-install-git.md)
 
-[03. Начиная работу с git](03-getting-started.md)
+[03. Начинаем работу с git](03-getting-started.md)
 
