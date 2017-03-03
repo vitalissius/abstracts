@@ -6,3 +6,4 @@
 
 [03. Начинаем работу с git](03-getting-started.md)
 
+[04. Концепция и архитектура git](04-git-concepts-and-architecture.md)
