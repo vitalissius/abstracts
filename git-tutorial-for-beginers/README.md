@@ -7,3 +7,5 @@
 [03. Начинаем работу с git](03-getting-started.md)
 
 [04. Концепция и архитектура git](04-git-concepts-and-architecture.md)
+
+[05. Как вносить изменения в файл](05-how-to-make-changes-to-files.md)
