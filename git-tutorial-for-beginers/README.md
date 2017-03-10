@@ -9,3 +9,5 @@
 [04. Концепция и архитектура git](04-git-concepts-and-architecture.md)
 
 [05. Как вносить изменения в файл](05-how-to-make-changes-to-files.md)
+
+[06. Как использовать git в реальных проектах](06-how-to-use-git-with-a-real-project.md)
