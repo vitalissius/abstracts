@@ -11,3 +11,5 @@
 [05. Как вносить изменения в файл](05-how-to-make-changes-to-files.md)
 
 [06. Как использовать git в реальных проектах](06-how-to-use-git-with-a-real-project.md)
+
+[07. Отмена изменений](07-undoing-changes.md)
