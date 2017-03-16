@@ -13,3 +13,5 @@
 [06. Как использовать git в реальных проектах](06-how-to-use-git-with-a-real-project.md)
 
 [07. Отмена изменений](07-undoing-changes.md)
+
+[08. Игнорирование файлов](08-ignoring-files.md)
