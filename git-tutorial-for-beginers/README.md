@@ -1,4 +1,4 @@
-##Руководство по git для начинающих
+## Руководство по git для начинающих
 
 Данное руководство является конспектом лекций по git от lynda.com [Git Essential Training](https://www.lynda.com/Git-tutorials/Git-Essential-Training/100222-2.html)
 
